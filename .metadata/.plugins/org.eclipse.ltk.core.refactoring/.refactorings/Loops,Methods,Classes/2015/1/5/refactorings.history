@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<session version="1.0">
+<refactoring comment="Rename compilation unit &apos;SymmetricNumbersInRange.java&apos; to &apos;SymetricNumbersInRange.java&apos;&#x0A;- Original project: &apos;Loops,Methods,Classes&apos;&#x0A;- Original element: &apos;SymmetricNumbersInRange.java&apos;&#x0A;- Renamed element: &apos;SymetricNumbersInRange.java&apos;" description="Rename compilation unit &apos;SymmetricNumbersInRange.java&apos;" flags="2" id="org.eclipse.jdt.ui.rename.compilationunit" input="/src&lt;{SymmetricNumbersInRange.java" name="SymetricNumbersInRange.java" references="false" stamp="1422692521075" version="1.0"/>
+</session>
